@@ -1,3 +1,3 @@
-# aind-capsule-template
+# SWDB 2025 AllenSDK Capsule Template 
 
-Basic structure of a capsule to be customized as needed.
+Python environment for using AllenSDK to access Visual Coding and Visual Behavior datasets. 
